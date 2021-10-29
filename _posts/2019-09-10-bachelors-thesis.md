@@ -3,9 +3,10 @@ layout: post
 title: "Four months to master"
 author: "Bhoomika"
 regular: true
+excerpt_separator: <!--more-->
 ---
 
-_A real and raw list of Bachelor’s Thesis Project (BTP) commitments that no one tells you about._
+_A real and raw list of Bachelor’s Thesis Project (BTP) commitments that no one tells you about._<!--more-->
 
 <br>
 If you’re reading this, you probably don’t have a BTP to take care of or are a very good friend of mine.

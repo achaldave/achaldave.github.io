@@ -3,9 +3,10 @@ layout: post
 title: "The Excited State: Editorial"
 author: "Bhoomika"
 regular: true
+excerpt_separator: <!--more-->
 ---
 
-_Editorial marking the end of my time with The Excited State, our departmental magazine run, by the Chemical Science and Technology Association._
+_Editorial marking the end of my time with The Excited State, our departmental magazine run, by the Chemical Science and Technology Association._<!--more-->
 
 It’s been a ride!
 

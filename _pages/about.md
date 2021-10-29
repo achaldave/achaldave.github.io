@@ -4,9 +4,14 @@ title:
 author: "Bhoomika"
 permalink: /about/
 ---
+<style>
+h1 {text-align: center;}
+div.sup {text-align: center; line-height: 2.1; font-size:20px}
+div.sub {text-align: center; line-height: 1.2; font-size:10px; color: DarkGray}
+</style>
 
 <img src="/Library.png" width="275" height="275" alt="Library"/>
-
+<div class="sub">Illustration by Ilya Milstein</div>
 <br>
 
 Hi, I'm Bhoomika. I'm a quantitative analyst for [Goldman Sachs']("https://www.goldmansachs.com/") asset backed securities business. I graduated from IIT Guwahati last year, where I majored in Chemical Science and got a chance to work with [Dr. Arun Chattopadhyay](https://scholar.google.co.in/citations?user=Ym02t0UAAAAJ&hl=en) as a [thesis student](https://iitg.ac.in/arun/Web%20Pages/Team/msc_project.htm) focused on nanomaterial synthesis.

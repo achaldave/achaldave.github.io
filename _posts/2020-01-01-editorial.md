@@ -26,8 +26,7 @@ To all our juniors, and the many many generations of CST grads yet to come - we 
 
 I conclude with some lines from my favorite poem, Song Of Myself, by Walt Whitman.
 
-_“A farmer, mechanic, artist, gentleman, sailor, quaker,_
-
+>_“A farmer, mechanic, artist, gentleman, sailor, quaker,_
 _Prisoner, fancy-man, rowdy, lawyer, physician, priest.”_
 
 Very Invictus-y indeed. Happy reading!

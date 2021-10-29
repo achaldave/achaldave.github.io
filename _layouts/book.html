@@ -1,0 +1,18 @@
+---
+layout: default
+author: "Bhoomika"
+---
+
+<div class="post">
+  <div class="post-info">
+    {% if page.date %}
+      <br>
+      <span></span><time datetime="{{ page.date }}">{{ page.date | date: "%B %d, %Y" }}</time>
+    {% endif %}
+  </div>
+
+  <h3 class="post-title">{{ page.title }}</h3>
+  <div class="post-line"></div>
+
+  {{ content }}
+</div>

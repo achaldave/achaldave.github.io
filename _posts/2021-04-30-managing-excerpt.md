@@ -1,9 +1,8 @@
 ---
 layout: post
 title: "Managing Excerpt"
-author: "Chester"
-tags: Tutorial
 excerpt_separator: <!--more-->
+regular: true
 ---
 
 You can customise the excerpt (the text displayed below each post on the homepage) using the `excerpt-separator`.<!--more--> Here's how you can do so!

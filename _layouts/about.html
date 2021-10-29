@@ -1,13 +1,12 @@
 ---
 layout: default
-author: "Bhoomika"
 ---
 
 <div class="post">
   <div class="post-info">
     {% if page.date %}
       <br>
-      <span></span><time datetime="{{ page.date }}">{{ page.date | date: "%B %d, %Y" }}</time>
+      <span>on&nbsp;</span><time datetime="{{ page.date }}">{{ page.date | date: "%B %d, %Y" }}</time>
     {% endif %}
   </div>
 
@@ -25,5 +24,4 @@ author: "Bhoomika"
     <a href="{{ page.previous.url | prepend: site.baseurl }}" class="right arrow">&#8594;</a>
   {% endif %}
 
-  <a href="#" class="top">Top</a>
 </div>

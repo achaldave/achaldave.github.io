@@ -7,8 +7,9 @@ regular: true
 _Articles written by sophomores seldom make history, and for good reason._
 -- Urban Legend
 
-For some reason, [The Startup](https://medium.com/swlh) decided to publish this piece.
+For some reason, [The Startup](https://medium.com/swlh) decided to publish this piece when I put it up on Medium a year later.
 
+<br>
 
 The Higgs boson is the origin of all mass.
 Right?
@@ -22,8 +23,7 @@ Right?
 Oh but there’s the photon; completely forgot to account for light. That’s four. We have a consensus - a bunch of four particles that make our universe.
 _Right?_
 
-Definitely heard of quarks. There’s an up quark and a down quark. And heard of neutrinos. Okay, these exist for sure.
-Right?
+Definitely heard of quarks. There’s an up quark and a down quark. And heard of neutrinos. Okay, these exist for sure. Guess that's right.
 
 In a nutshell, scientists have discovered twelve particles which they choose to call fundamental at this point (circa 2018). The Higgs boson excluded.
 

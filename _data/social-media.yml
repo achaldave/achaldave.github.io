@@ -1,0 +1,23 @@
+email:
+  id: 'ojhabhoomika@gmail.com'
+  href: 'mailto:'
+  title: 'Email'
+  fa-icon: 'fa-envelope-square'
+
+twitter:
+  id: 'bhoomikaojha'
+  href: 'https://www.twitter.com/'
+  title: 'Twitter'
+  fa-icon: 'fa-twitter-square'
+
+spotify:
+  id: 'bhoomikaojha'
+  href: 'https://linkedin.com/'
+  title: 'Linkedin'
+  fa-icon: 'fa-linkedin-square'
+
+spotify:
+  id: '5hx9rogivhyty6ajyydrg8rjo'
+  href: 'https://spotify.com/'
+  title: 'Spotify'
+  fa-icon: 'fa-spotify-square'

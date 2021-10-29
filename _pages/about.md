@@ -5,8 +5,6 @@ author: "Bhoomika"
 permalink: /about/
 ---
 <style>
-h1 {text-align: center;}
-div.sup {text-align: center; line-height: 2.1; font-size:20px}
 div.sub {text-align: center; line-height: 1.2; font-size:10px; color: DarkGray}
 </style>
 
@@ -20,7 +18,7 @@ I am a part of the team behind [A Junior VC](https://ajuniorvc.com), a project t
 
 I grew up in Bangalore, as a result of which I find peakbengaluru mentions very peculiar. I am notorious for the affinity I have towards particularly aggressive sounding music coupled with a complete disinterest in using earphones. The rest of my interests are too scattered to list here.
 
-This website is my attempt to document at least some of the things I'm actively thinking about, as well as some of the experiences I've managed to chronicle as an undergrad navigating college in the Indian context.
+This website is my attempt at documenting at least some of the things I'm actively thinking about, as well as some of the experiences I've managed to chronicle as an undergrad navigating college in the Indian context.
 
 Thanks for dropping by! Feel free to reach out to me via Twitter or LinkedIn if you have anything to share.
 

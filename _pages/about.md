@@ -13,7 +13,7 @@ Hi, I'm Bhoomika. I'm a quantitative analyst for [Goldman Sachs']("https://www.g
 
 I am a part of the team behind [A Junior VC](https://ajuniorvc.com), a project that was started to democratise access to analysis and commentary by venture capitalists surrounding the Indian startup ecosystem. Check out [McMarkets](https://ajuniorvc.com/mcmarkets/), or quickly look up [my first name](https://ajuniorvc.com/?s=bhoomika) on the AJVC website to find the pieces I've worked on.
 
-I grew up in Bangalore, as a result of which I find peakbengaluru mentions very peculiar. I am notorious for the affinity I have towards particularly aggressive sounding music coupled with a complete disinterest in using earphones, and the rest of my interests are too scattered to list here. 
+I grew up in Bangalore, as a result of which I find peakbengaluru mentions very peculiar. I am notorious for the affinity I have towards particularly aggressive sounding music coupled with a complete disinterest in using earphones. The rest of my interests are too scattered to list here. 
 
 This website is my attempt to document at least some of the things I'm actively thinking about, as well as some of the experiences I've managed to chronicle as an undergrad navigating college in the Indian context.
 

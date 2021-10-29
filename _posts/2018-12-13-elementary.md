@@ -5,8 +5,9 @@ author: "Bhoomika"
 regular: true
 excerpt_separator: <!--more-->
 ---
-_Articles written by sophomores seldom make history, and for good reason._<!--more-->
+_Articles written by sophomores seldom make history, and for good reason._
 -- Urban Legend
+<!--more-->
 
 For some reason, [The Startup](https://medium.com/swlh) decided to publish this piece when I put it up on Medium a year later.
 

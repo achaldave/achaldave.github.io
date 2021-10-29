@@ -10,7 +10,6 @@ permalink: /shelves/
 * [The Dark Forest](https://www.goodreads.com/book/show/23168817-the-dark-forest)
 * [Why Nations Fail: The Origins of Power, Prosperity, and Poverty](https://www.goodreads.com/book/show/12158480-why-nations-fail)
 * [Valuation: Measuring and Managing the Value of Companies](https://www.goodreads.com/book/show/886667.Valuation?ref=nav_sb_ss_2_9)
-* [Jugalbandi: The BJP Before Modi](https://www.goodreads.com/book/show/55987594-jugalbandi)
 
 
 

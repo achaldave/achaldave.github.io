@@ -57,8 +57,6 @@ Think of a ping-pong ball submerged in water. When you push the ping-pong ball, 
 
 The theory further says that the Higgs boson is the particle responsible for ‘giving’ mass to other particles. It represents a new form of matter, which had been widely anticipated for decades but had never been seen. In the early 20th century, physicists realized that particles, in addition to their mass and electric charge, have a third defining feature: their spin. But unlike a spinning top toy, a particle’s spin is an intrinsic feature that doesn’t change, it doesn’t speed up or slow down over time. Electrons and quarks have the same spin value, while the spin of photons is twice that of electrons and quarks. The equations describing the Higgs particle showed that unlike any other fundamental particle species, it should have no spin at all. Data from the Large Hadron Collider have now confirmed this.
 
-What are the applications of such a particle?
-
 Finding the Higgs boson basically meant that we now had evidence for the Higgs field.
 The heart of the matter is this: Without the existence of the Higgs, the universe wouldn’t be able to form atoms and molecules. Instead, electrons and quarks would simply flash by at the speed of light, like photons. They’d never be able to form any sort of composite matter. So the universe would be massless. We wouldn’t exist, and neither would anything in any form we recognize.
 
